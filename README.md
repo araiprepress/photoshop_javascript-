@@ -2,7 +2,7 @@
 Simple tools for photoshop 
 
 ## copyToOuterFolder.jsx
-Photoshop tool for gathering folder separated files to outer them.
+Photoshop tool for gathering image files separated to folders  to outer them. (for reducing manual operations)
 
 
 ## Note
